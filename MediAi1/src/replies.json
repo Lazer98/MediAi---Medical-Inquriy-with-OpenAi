@@ -1,0 +1,296 @@
+{
+    "intents": [
+
+
+
+        {
+            "tag": "-1",
+            "patterns": [
+                "orthopedia",
+                "neurology",
+                "other"
+            ],
+            "responses": [
+                "orthopedia question 1",
+                "neurology question 1",
+                "other question 1"
+            ]
+        },
+
+        {
+            "tag": "-2",
+            "patterns": [
+                "yes",
+                "no"
+            ],
+            "responses": [
+                "redirecting you to the beginning...",
+                "waiting for the diagnosis..."
+            ]
+        },
+
+
+        {
+            "tag": "0.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+            ],
+            "responses": [
+                "orthopedia question 2 to first answer",
+                "orthopedia question 2 to second answer"
+            ]
+        },
+        
+        {
+            "tag": "1.0.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "orthopedia question 3 to first answer",
+                "orthopedia question 3 to second answer"
+            ]
+        },
+        {
+            "tag": "1.0.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "orthopedia question 3 to first answer",
+                "orthopedia question 3 to second answer"
+            ]
+        },
+        {
+            "tag": "2.0.0.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.0.0.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.0.1.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.0.1.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+        {
+            "tag": "0.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "neurology question 2 to first answer",
+                "neurology question 2 to second answer"
+            ]
+        },
+        {
+            "tag": "1.1.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "neurology question 3 to first answer",
+                "neurology question 3 to second answer"
+            ]
+        },
+        {
+            "tag": "1.1.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "neurology question 3 to first answer",
+                "neurology question 3 to second answer"
+            ]
+        },
+        {
+            "tag": "2.1.0.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.1.0.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.1.1.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.1.1.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "tag": "0.2",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "other question 2 to first answer",
+                "other question 2 to second answer"
+            ]
+        },
+        {
+            "tag": "1.2.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "other question 3 to first answer",
+                "other question 3 to second answer"
+            ]
+        },
+        {
+            "tag": "1.2.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "other question 3 to first answer",
+                "other question 3 to second answer"
+            ]
+        },
+        {
+            "tag": "2.2.0.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.2.0.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.2.1.0",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.2.1.1",
+            "patterns": [
+                "answer 1",
+                "answer 2"
+             ],
+            "responses": [
+                "are there any other complaints?",
+                "are there any other complaints?"
+            ]
+        }
+        
+    ]
+}
